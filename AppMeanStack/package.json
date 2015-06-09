@@ -1,0 +1,15 @@
+{
+  "name": "AppMeanStack",
+  "version": "1.0.0",
+  "description": "Tech Training",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Minh Thanh",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.12.4",
+    "jade": "^1.10.0"
+  }
+}
